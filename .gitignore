@@ -1,0 +1,5 @@
+# File types to ignore
+*.mat
+*.avi
+*.png
+*.asv
